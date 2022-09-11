@@ -2,7 +2,7 @@
 
 /**
  * main - contains a statement that needs to be printed
- * Return 0 if successful
+ * Return: 0 if successful
  */
 
 int main(void)
