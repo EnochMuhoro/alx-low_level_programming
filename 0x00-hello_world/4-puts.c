@@ -3,7 +3,7 @@
 /** 
  * Printing "Programming is like building a multilingual puzzle" 
  * main - contains a statement that needs to be printed
- * */
+ */
 
 int main(void)
 {
